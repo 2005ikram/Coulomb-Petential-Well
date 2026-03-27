@@ -1,5 +1,5 @@
 # Coulomb-Petential-Well
-1. Physical Intuition
+1. Physical Intuition:
 
     Negative Energy (V<0): This represents a Bound State. The electron is "trapped" inside the nucleus's attraction field and needs energy to escape.
 
@@ -14,7 +14,7 @@
    $Z$:Atomic number (number of protons)
    $q$:
    Elementary charge ($\approx1.602\times 10^{-19} c$).
-   $\varepsilon$ : Vacuum permitivity ($\approx 8.854\times 10^[-12} F/m$).
+   $\varepsilon$ : Vacuum permitivity ($\approx 8.854\times 10^{-12} F/m$).
    $|x|$:Distance from the nucleus.​
 
     Symmetry: Using the absolute value ∣x∣ ensures that the potential is identical on both sides of the nucleus.
